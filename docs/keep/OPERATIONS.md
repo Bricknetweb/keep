@@ -12,6 +12,8 @@ Last-known / unverified: dark after Tue 2026-08-25 2pm.
 
 Product is the visionOS Latin scene engine. Cast stills and Furniture Pin are parked.
 
+As of Wed 2026-08-26, a Vision Pro is on site. It is the Latin engine target (ImmersiveSpace / vis-buffer), not a Hermes add-on. Hermes stays on the 3090.
+
 Forge (Comfy / 3090) stays dark unless Jon explicitly asks. Do not poke the 3090.
 
 As of 2026-08-26, the live path to the 3090 is Jon's Hermes session over Tailscale.
