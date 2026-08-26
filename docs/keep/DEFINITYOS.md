@@ -1,8 +1,12 @@
-# DefinityOS — the engine (not a second competing OS product)
+# Definity / DefinityOS / Latin
 
-DefinityOS is the engine. BrickNet.xcodeproj is DefinityOS. Latin is the vis-buffer draw path inside DefinityOS, not a different product and not a replacement name. Anatomy viewer is DefinityOS content (entities/systems as layers).
+- Definity = the product: the anatomy viewer on the Vision Pro.
+- DefinityOS = the engine (BrickNet.xcodeproj).
+- Latin = how it draws (vis-buffer / CompositorLayer).
 
-DefinityOS is this engine, not a separate OS we also ship.
+Everything else is in service of Definity. Month still starts with ImmersiveSpace actually running on the headset. Anatomy content after that.
+
+DefinityOS is the engine, not a discarded mockup and not a second competing OS we also ship. Latin is how DefinityOS draws, not a separate product.
 
 Headset demo this month on the on-site Vision Pro: Xcode 26, BrickNet.xcodeproj (DefinityOS), executable BrickNet.app, destination the Vision Pro (not Simulator if possible). Product → Test / scripts/test-latin.sh. Latin is how it draws: CompositorLayer / LayerRenderer, vis-buffer, foveation, occlusion.
 
@@ -10,7 +14,7 @@ Keep: Rasterize instance/triangle IDs first (rg32Uint, reverse-Z). Shade only wi
 
 Steal RealityKit entities, anchors, mesh-occlusion components. Do not switch to RealityKit’s renderer.
 
-Anatomy viewer is DefinityOS content, not Comfy/3090 stills. Jon wants a detailed anatomy app: complete human body, all parts/systems, pick a part. That is a DefinityOS ImmersiveSpace content layer (entities + systems as layers: bone, muscle, organs). Latin vis-buffer so hidden tissue is not shaded. Medical/educational. Not a 3090 image farm. Engine on the headset comes first. Anatomy content after ImmersiveSpace actually runs. Slack stays PG, no stills.
+Definity is the anatomy viewer on DefinityOS, not Comfy/3090 stills. Jon wants a detailed anatomy app: complete human body, all parts/systems, pick a part. That is Definity content (entities + systems as layers: bone, muscle, organs). Latin vis-buffer so hidden tissue is not shaded. Medical/educational. Not a 3090 image farm. ImmersiveSpace on the headset comes first. Anatomy content after ImmersiveSpace actually runs. Slack stays PG, no stills.
 
 Out of scope: Hermes / Comfy / 3090, Cast stills, Furniture Pin, ACP (hermes acp is editor talk, not the headset demo).
 
