@@ -6,6 +6,8 @@
 
 Everything else is in service of Definity. Month still starts with ImmersiveSpace actually running on the headset. Anatomy content after that.
 
+Vessel graph layer: VESSEL_GRAPH.md.
+
 Last known Keep LAN facts as of Wed 2026-08-26. Unverified since then; this file does not claim a ping.
 
 Keep is the Mac Mini mailbox hub.

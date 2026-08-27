@@ -6,6 +6,8 @@
 
 Everything else is in service of Definity. Month still starts with ImmersiveSpace actually running on the headset. Anatomy content after that.
 
+Vessel graph layer: VESSEL_GRAPH.md.
+
 Headset demo this month on the on-site Vision Pro: Xcode 26, BrickNet.xcodeproj (DefinityOS), executable BrickNet.app, destination the Vision Pro (not Simulator if possible). Product → Test / scripts/test-latin.sh. Latin is how it draws: CompositorLayer / LayerRenderer, vis-buffer, foveation, occlusion.
 
 Keep: Rasterize instance/triangle IDs first (rg32Uint, reverse-Z). Shade only winning / visible pixels. Foveation on. Real-world occlusion via scene reconstruction depth before vis. LatinControlNet-style control pack (IDs, visibility, foveation, occlusion) is the render control path.
