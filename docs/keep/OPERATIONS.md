@@ -20,6 +20,8 @@ Last-known / unverified: dark after Tue 2026-08-25 2pm.
 
 As of Sat 2026-08-29, MacBook Pro (Jon's operator laptop / Xcode 26 / Latin visor flash) is on ethernet/hardline. If the Mac sleeps, wake it once, then lock. Do not sit or ping Jon until after that one wake.
 
+As of Sat 2026-08-29, Grok Bot Computers has two registered machines: jjjjs-MacBook-Pro.local and DESKTOP-463BQ61. Keep Mini is not registered yet. Add Mini under Computer → Computers. If DESKTOP-463BQ61 is the 3090, Forge stays up. No Comfy unless Jon says yes.
+
 Product is Definity (anatomy viewer on the Vision Pro). DefinityOS is the engine. Latin is how it draws. Cast stills and Furniture Pin are parked.
 
 As of Wed 2026-08-26, a Vision Pro is on site. It is the Definity headset target (DefinityOS + Latin ImmersiveSpace / vis-buffer), not a Hermes add-on. Hermes stays on the 3090.
