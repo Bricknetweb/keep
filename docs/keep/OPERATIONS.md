@@ -22,7 +22,9 @@ As of Sat 2026-08-29, MacBook Pro (Jon's operator laptop / Xcode 26 / Latin viso
 
 As of Sat 2026-08-29, Grok Bot Computers has two registered machines: jjjjs-MacBook-Pro.local and DESKTOP-463BQ61. Keep Mini is not registered yet. Add Mini under Computer → Computers. If DESKTOP-463BQ61 is the 3090, Forge stays up. No Comfy unless Jon says yes.
 
-As of Sun 2026-08-30, Factry is BrickNet's i7 + NVIDIA 5070 workstation. Not the visor. Do not clone DefinityOS onto it. Live tree stays /Users/jjjj/Documents/DefinityOS on the MacBook Pro. Mac flashes. Hermes locks UUIDs. 5070 Comfy/stills parked until Jon unblocks, same gate as Forge. Do not poke the 3090, Hermes, or Tailscale. Do not delete generated files.
+As of Sun 2026-08-30, Factry is BrickNet's i7 + NVIDIA 5070 workstation. Not the visor. Do not clone DefinityOS onto it. Live tree stays /Users/jjjj/Documents/DefinityOS on the MacBook Pro. Mac flashes. Hermes locks UUIDs. Do not poke the 3090, Hermes, or Tailscale.
+
+As of Sat 2026-08-29, Jon unblocked Factry's 5070 for named Definity stills only. Not the visor. Not the 3090. Name the bake in BrickNet ops before it runs. Glaze owns composition. No nudes. No anatomy stills in Slack. HARD FILE RULE: do not delete generated files. Forge remains 3090 Comfy, still no Comfy unless Jon says yes for that card.
 
 Product is Definity (anatomy viewer on the Vision Pro). DefinityOS is the engine. Latin is how it draws. Cast stills and Furniture Pin are parked.
 
