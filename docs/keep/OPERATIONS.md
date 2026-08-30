@@ -22,6 +22,8 @@ As of Sat 2026-08-29, MacBook Pro (Jon's operator laptop / Xcode 26 / Latin viso
 
 As of Sat 2026-08-29, Grok Bot Computers has two registered machines: jjjjs-MacBook-Pro.local and DESKTOP-463BQ61. Keep Mini is not registered yet. Add Mini under Computer → Computers. If DESKTOP-463BQ61 is the 3090, Forge stays up. No Comfy unless Jon says yes.
 
+As of Sun 2026-08-30, Factry is BrickNet's i7 + NVIDIA 5070 workstation. Not the visor. Do not clone DefinityOS onto it. Live tree stays /Users/jjjj/Documents/DefinityOS on the MacBook Pro. Mac flashes. Hermes locks UUIDs. 5070 Comfy/stills parked until Jon unblocks, same gate as Forge. Do not poke the 3090, Hermes, or Tailscale. Do not delete generated files.
+
 Product is Definity (anatomy viewer on the Vision Pro). DefinityOS is the engine. Latin is how it draws. Cast stills and Furniture Pin are parked.
 
 As of Wed 2026-08-26, a Vision Pro is on site. It is the Definity headset target (DefinityOS + Latin ImmersiveSpace / vis-buffer), not a Hermes add-on. Hermes stays on the 3090.
