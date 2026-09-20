@@ -4,6 +4,23 @@
 - DefinityOS = the engine (BrickNet.xcodeproj).
 - Latin = how it draws (vis-buffer / CompositorLayer).
 
+## Current status
+
+As of Sun 2026-09-20 (America/Denver).
+
+Live visor cut: **levitas2** UUID `E9EF7B65` (full `E9EF7B65-6DA0-4BC2-BF66-68B306024FDE`) build **160609**. Hermes-locked. Live flash tree: `/Users/jjjj/src/DefinityOS` (not Documents).
+
+Stale cuts — do not leftover-flash: 0D8A5D2B/levitas, C322AAD7/srcamare, 4CAAE007/camararemus, 48C32B76/camulus, Patens7 CEED66D6.
+
+Open bugs (Jon, on levitas2). Same gates already on Mini; do not open a second queue:
+
+1. Extra: no menu and no skin (Mini WIP `20260920-161416`)
+2. Intra: Cutis button retints but does not peel (Mini WIP `20260920-161422`)
+
+Keep kanban is on Mini (LAN), not GitHub: http://192.168.0.113:8080 — Tailscale http://100.105.134.67:8080 — client `~/src/DefinityOS/scripts/desk-kanban.sh`. Never 127.0.0.1. Never ~/.hermes/kanban.db.
+
+Model-fix side lanes (context only, flash?=no): Forge Extra hull 4341899e + albedo UV parked pending Jon Comfy clear; Factry Os manus/pes on skeletale 562b91c2.
+
 Everything else is in service of Definity. Month still starts with ImmersiveSpace actually running on the headset. Anatomy content after that.
 
 Vessel graph layer: VESSEL_GRAPH.md.
@@ -22,7 +39,7 @@ As of Sat 2026-08-29, MacBook Pro (Jon's operator laptop / Xcode 26 / Latin viso
 
 As of Sat 2026-08-29, Grok Bot Computers has two registered machines: jjjjs-MacBook-Pro.local and DESKTOP-463BQ61. Keep Mini is not registered yet. Add Mini under Computer → Computers. If DESKTOP-463BQ61 is the 3090, Forge stays up. No Comfy unless Jon says yes.
 
-As of Sun 2026-08-30, Factry is BrickNet's i7 + NVIDIA 5070 workstation. Not the visor. Do not clone DefinityOS onto it. Live tree stays /Users/jjjj/Documents/DefinityOS on the MacBook Pro. Mac flashes. Hermes locks UUIDs. Do not poke the 3090, Hermes, or Tailscale.
+As of Sun 2026-08-30, Factry is BrickNet's i7 + NVIDIA 5070 workstation. Not the visor. Do not clone DefinityOS onto it. As of Sun 2026-09-20, live flash tree is `/Users/jjjj/src/DefinityOS` on the MacBook Pro (not Documents). Mac flashes. Hermes locks UUIDs. Do not poke the 3090, Hermes, or Tailscale.
 
 As of Sat 2026-08-29, Jon unblocked Factry's 5070 for named Definity stills only. Not the visor. Not the 3090. Name the bake in BrickNet ops before it runs. Glaze owns composition. No nudes. No anatomy stills in Slack. HARD FILE RULE: do not delete generated files. Forge remains 3090 Comfy, still no Comfy unless Jon says yes for that card.
 
